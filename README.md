@@ -1,4 +1,4 @@
-kaggle_stumbleupon
+Kaggle StumbleUpon Challenge solution
 ==================
 
 This is my solution for the [Kaggle StumbleUpon Evergreen Classification Challenge](https://www.kaggle.com/c/stumbleupon). It got 8th place on the final leaderboard but can get top 3 scores on the private leaderboard (which is maybe not that spectacular given how noisy the data was). 
